@@ -2,7 +2,7 @@
 
 ## Bonus 1 - React Cities
 
-Convert the following [CodePen](https://codepen.io/jkeohan/pen/850f8454693590e9772f8d0f6c2f44c8) into a React app.  Create the following Components and follow the below hierarchy:
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/850f8454693590e9772f8d0f6c2f44c8) into a React app.  Create the following Components and organize based on the below hierarchy:
 
 - App
   - Form
@@ -15,7 +15,7 @@ Add an onChange event to the Form that allows the user to add an image url.  The
 
 ## Bonus 2 - Traffic Light
 
-Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1010) into a React app.  Create the following Components and follow the below hierarchy:
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1010) into a React app.  Create the following Components and and organize based on the below hierarchy:
 
 - App
   - Bulbs
@@ -25,7 +25,7 @@ Add a click event to Buttons that lifts state to App and updates the Bulbs so th
 
 ## Bonus 3 - Memory Game
 
-Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=0010) into a React App. Create the following Components and follow the below hierarchy:
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=0010) into a React App. Create the following Components and and organize based on the below hierarchy:
 
 - App
   - Cards
