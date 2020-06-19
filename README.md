@@ -1,6 +1,6 @@
 # Additional Bonus Labs
 
-## Bonus 1 - React Cities
+## Bonus - React Cities
 
 Convert the following [CodePen](https://codepen.io/jkeohan/pen/850f8454693590e9772f8d0f6c2f44c8) into a React app.  Create the following Components and organize based on the below hierarchy:
 
@@ -13,7 +13,20 @@ Add an onClick event to each SmallImage that lifts state to App and updates stat
  
 Add an onChange event to the Form that allows the user to add an image url.  The Form will pass that url to App which will then render it as an additional SmallImage Component.
 
-## Bonus 2 - Traffic Light
+## Bonus - ColorSwitcher
+
+Convert the following [CodePen](https://codepen.io/jkeohan/pen/abvjvpr?editors=1010) into a React app.  Create the following Components and organize based on the below hierarchy:
+
+- App
+  - Form
+  - ColorList
+  - ColorListItem
+ 
+Add an onClick event to each ColorListIttem that lifts state to App and updates the background color of the app to be the color of the item that was clicked.
+ 
+Add an onChange event to the Form that allows the user to add a color.  The Form will pass that url to App which will then render it as an additional ColorListItem.
+
+## Bonus - Traffic Light
 
 Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1010) into a React app.  Create the following Components and and organize based on the below hierarchy:
 
@@ -23,7 +36,7 @@ Convert the following [CodePen](https://codepen.io/jkeohan/pen/MWYEyMV?editors=1
   
 Add a click event to Buttons that lifts state to App and updates the Bulbs so that only the chosen Bulb is on and all other Bulbs are set to black. 
 
-## Bonus 3 - Memory Game
+## Bonus - Memory Game
 
 Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=0010) into a React App. Create the following Components and and organize based on the below hierarchy:
 
