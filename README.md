@@ -56,8 +56,8 @@ Add a click event to the Cards assigns the card its card image and lifts state t
 ```
 
 - Create a button to render another random fresh taco
-
-![screen shot](https://i.imgur.com/1HbPnjB.png))
+- Add some styling
+![screen shot](https://i.imgur.com/1HbPnjB.png)
 
 
 
