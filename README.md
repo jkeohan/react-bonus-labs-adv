@@ -44,4 +44,28 @@ Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=00
   - Cards
 
 Add a click event to the Cards assigns the card its card image and lifts state to the App Component that is used to determine the winning/loosing logic. 
+
+## Bonus - Random Taco
+
+# Random Taco!
+
+Use fetch to the below api
+
+```js
+   fetch('http://taco-randomizer.herokuapp.com/random/?full-tack=true')
+```
+
+
+to render the view of a random taco. No styling needed!
+
+![screen shot](https://i.imgur.com/1HbPnjB.png))
+
+## Hungry for more
+
+Create a button to render another random fresh taco
+
+Style it to your hearts content.
+
+[Hint](https://reactjs.org/docs/state-and-lifecycle.html#adding-lifecycle-methods-to-a-class)
+
  
