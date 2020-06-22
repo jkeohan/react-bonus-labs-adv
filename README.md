@@ -45,9 +45,9 @@ Convert the following [CodePen](https://codepen.io/jkeohan/pen/opvVGN?editors=00
 
 Add a click event to the Cards assigns the card its card image and lifts state to the App Component that is used to determine the winning/loosing logic. 
 
-## Bonus - Random Taco
+# API Specific
 
-# Random Taco!
+## Bonus - Random Taco
 
 Use fetch to the below api
 
