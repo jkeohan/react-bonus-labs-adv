@@ -49,7 +49,7 @@ Add a click event to the Cards assigns the card its card image and lifts state t
 
 ## Bonus - Random Taco
 
-Use fetch to the below api to render the view of a random taco. No styling needed!
+- Use fetch to the below api to render the view of a random taco. No styling needed!
 
 ```js
    fetch('http://taco-randomizer.herokuapp.com/random/?full-tack=true')
