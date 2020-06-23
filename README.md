@@ -47,21 +47,7 @@ Add a click event to the Cards assigns the card its card image and lifts state t
 
 # API Specific
 
-## Bonus - Random Taco
-
-- Use fetch to the below api to render the view of a random taco. No styling needed!
-
-```js
-   fetch('http://taco-randomizer.herokuapp.com/random/?full-tack=true')
-```
-
-- Create a button to render another random fresh taco
-- Add some styling
-![screen shot](https://i.imgur.com/1HbPnjB.png)
-
-
-## Bonus - News API
-
-[News Api](https://git.generalassemb.ly/SEIR-526/react-news)
+- [Random Taco](https://git.generalassemb.ly/SEIR-526/react-random-taco-app)
+- [News Api](https://git.generalassemb.ly/SEIR-526/react-news)
 
  
