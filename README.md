@@ -60,6 +60,8 @@ Add a click event to the Cards assigns the card its card image and lifts state t
 ![screen shot](https://i.imgur.com/1HbPnjB.png)
 
 
+## Bonus - News API
 
+[News Api](https://git.generalassemb.ly/SEIR-526/react-news)
 
  
