@@ -50,4 +50,8 @@ Add a click event to the Cards assigns the card its card image and lifts state t
 - [Random Taco](https://git.generalassemb.ly/SEIR-526/react-random-taco-app)
 - [News Api](https://git.generalassemb.ly/SEIR-526/react-news)
 
+# React Router / API
+
+- [Pokedex](https://git.generalassemb.ly/SEIR-526/pokedex-lab)
+
  
